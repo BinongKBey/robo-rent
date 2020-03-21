@@ -1,0 +1,51 @@
+.jumbotron{
+    text-align: center;
+    background:#3f414200;
+    text-shadow: 2px 2px 4px black;
+    color: white;
+    font-family: 'Baloo 2', cursive;
+    margin: 0;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+footer{
+    padding: 20px;
+    color: white;
+    background: #83888b00;
+    text-shadow: 1px 1px 2px black;
+}
+.card{
+    text-align: center;
+    margin: 20px;
+    border-radius: 20px;
+}
+.nav li{
+    padding-left: 40px;
+}
+.navbar a{
+    color: black;
+}
+.navbar-toggler-icon{
+    color: white;
+}
+.navbar{
+    margin: auto;
+}
+.navbar a:hover{
+    color: rgb(80, 77, 77);
+}
+body{
+    background:url(https://wallpaperaccess.com/full/557716.jpg);
+    background-size: cover;
+    background-position: right;
+}
+.footer a{
+    text-decoration: none;
+    color: white;
+}
+.footer a:hover{
+    color: rgb(209, 209, 209);
+}
+.navbar a{
+    font-size: 20px;
+}
